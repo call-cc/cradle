@@ -18,4 +18,5 @@ Jack Crenshaw's cradle compiler rewritten in Scheme
 ### Chapter 3
 * 3.2 Variables: `3.2.scm`
 * 3.3 Functions: `3.3.scm`
+* 3.4 More on error handling: `3.4.scm`
 
