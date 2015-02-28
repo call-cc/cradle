@@ -1,5 +1,5 @@
 # cradle
-Jack Crenshaw's cradle compiler rewritten in Scheme
+Jack Crenshaw's compiler rewritten in Scheme
 
 ## Contents
 
