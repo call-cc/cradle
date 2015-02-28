@@ -20,4 +20,5 @@ Jack Crenshaw's cradle compiler rewritten in Scheme
 * 3.3 Functions: `3.3.scm`
 * 3.4 More on error handling: `3.4.scm`
 * 3.5 Assignment statements: `3.5.scm`
+* 3.6 Multi-character tokens: `3.6.scm`
 
