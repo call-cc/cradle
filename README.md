@@ -23,3 +23,6 @@ Jack Crenshaw's cradle compiler rewritten in Scheme
 * 3.6 Multi-character tokens: `3.6.scm`
 * 3.7 White space: `3.7.scm`
 
+### Chapter 4
+* 4.2 The interpreter: `4.2.scm`
+
